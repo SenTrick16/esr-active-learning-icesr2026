@@ -1,4 +1,4 @@
-# 🧲 Active Learning–Guided Adaptive ESR Acquisition for Rapid Quantum Spin Characterisation
+<img width="3501" height="2549" alt="Certificate" src="https://github.com/user-attachments/assets/67e16d21-761d-48d7-8659-edffb0cdd986" /># 🧲 Active Learning–Guided Adaptive ESR Acquisition for Rapid Quantum Spin Characterisation
 
 <div align="center">
 
@@ -104,9 +104,9 @@ Full Spectrum (200 pts)
 ```
 📦 esr-active-learning-icesr2026/
 ├── 📓 model2.ipynb              # Full pipeline: data loading → CNN → active learning
-├── 📄 abstract.pdf              # Submitted abstract (ICESR 2026)
-├── 🖼️ poster.jpeg               # Conference poster (presented at IISc)
-├── 🏅 certificate.jpeg          # Certificate of Participation — ICESR 2026
+├── 📄 Abstract_SrishtiTripathi.pdf              # Submitted abstract (ICESR 2026)
+├── 🖼️ ICESR_poster_ST_Final.jpg               # Conference poster (presented at IISc)
+├── 🏅 Certificate.jpeg          # Certificate of Participation — ICESR 2026
 ├── 📂 assets/
 │   └── architecture.png         # (optional) model diagram
 └── 📖 README.md
@@ -132,7 +132,7 @@ matplotlib
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/esr-active-learning-icesr2026.git
+git clone https://github.com/SenTrick16/esr-active-learning-icesr2026.git
 cd esr-active-learning-icesr2026
 pip install tensorflow scikit-learn numpy pandas matplotlib
 ```
@@ -190,7 +190,7 @@ Make sure `esr_dataset_10000.csv` is in the same directory, or update the path i
 **Srishti Tripathi**  
 B.Tech CSE · IIIT Naya Raipur  
 📧 srishti24100@iiitnr.edu.in  
-🔗 [LinkedIn](https://linkedin.com/in/srishti-tripathi) · [GitHub](https://github.com/YOUR_USERNAME)
+🔗 [LinkedIn](https://www.linkedin.com/in/srishti-tripathi-509a4a332/) · [GitHub](https://github.com/SenTrick16)
 
 ---
 
