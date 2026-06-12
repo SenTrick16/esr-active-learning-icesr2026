@@ -13,6 +13,11 @@
 </div>
 
 ---
+## 📄 Conference Poster
+
+<p align="center">
+  <img src="ICESR_poster_ST_Final.jpg" alt="ICESR 2026 Conference Poster" width="85%"/>
+</p>
 
 ## 👩‍💻 Authors
 
