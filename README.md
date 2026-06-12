@@ -13,11 +13,6 @@
 </div>
 
 ---
-## 📄 Conference Poster
-
-<p align="center">
-  <img src="ICESR_poster_ST_Final.jpg" alt="ICESR 2026 Conference Poster" width="85%"/>
-</p>
 
 ## 👩‍💻 Authors
 
@@ -26,6 +21,11 @@ Dr. Shyama Prasad Mukherjee International Institute of Information Technology, N
 📧 srishti24100@iiitnr.edu.in
 
 ---
+## 📄 Conference Poster
+
+<p align="center">
+  <img src="ICESR_poster_ST_Final.jpg" alt="ICESR 2026 Conference Poster" width="85%"/>
+</p>
 
 ## 📌 Overview
 
